@@ -1,0 +1,31 @@
+site_name: HoshikageRedirect
+nav:
+  - 入口: index.md
+  - ゲームマスターの役割: GMsRole.md
+  - キャラクター達の独白: CharactersMonologue.md
+  - 得点集計: Points.md
+  - 真相: Truth.md
+  - 謎解きのヒント＆回答: AnswersHints.md
+  - 時系列まとめ: TimeCourses.md
+  - ゲームの準備: GettingReady.md
+  - ゲームの進行: Moderator.md
+  - 追加情報の管理: AdditionalInfos.md
+  - エンディングのイベント: EndingEvents.md
+  - エンディングのターン消費: EndingActions.md
+  - 君ならわかる！　『星陰』のルール説明: RulesBasic.md
+  - ルールの補足: RulesAdditional.md
+  - よくある質問: FAQ.md
+  - 素材置き場: Resources.md
+  - カード解説: Cards.md
+  - あとがき: FromAuthor.md
+  - 著作権と参考文献: CopyrightAndBiblio.md
+  - 変更履歴: ChangeLog.md
+theme:
+  name: readthedocs
+  language: "ja"
+extra:
+  search:
+    language: "jp"
+
+extra_css:
+  - css/extra.css
